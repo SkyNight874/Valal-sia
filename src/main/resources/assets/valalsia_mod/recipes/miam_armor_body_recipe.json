@@ -1,0 +1,39 @@
+{
+  "group": "valalsia_mod",
+  "type": "minecraft:crafting_shaped",
+  "pattern": [
+    "0 2",
+    "345",
+    "678"
+  ],
+  "key": {
+    "0": {
+      "item": "valalsia_mod:miam"
+    },
+    "2": {
+      "item": "valalsia_mod:miam"
+    },
+    "3": {
+      "item": "valalsia_mod:miam"
+    },
+    "4": {
+      "item": "valalsia_mod:miam"
+    },
+    "5": {
+      "item": "valalsia_mod:miam"
+    },
+    "6": {
+      "item": "valalsia_mod:miam"
+    },
+    "7": {
+      "item": "valalsia_mod:miam"
+    },
+    "8": {
+      "item": "valalsia_mod:miam"
+    }
+  },
+  "result": {
+    "item": "valalsia_mod:miam_armorbody",
+    "count": 1
+  }
+}

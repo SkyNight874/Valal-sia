@@ -1,0 +1,7 @@
+{
+  "parent": "block/cube_all",
+  "textures": {
+    "all": "valalsia_mod:blocks/miam_ore",
+    "particle": "valalsia_mod:blocks/miam_ore"
+  }
+}

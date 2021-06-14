@@ -1,0 +1,46 @@
+{
+  "_fv": 18,
+  "_type": "recipe",
+  "definition": {
+    "recipeType": "Crafting",
+    "xpReward": 0.0,
+    "cookingTime": 200,
+    "recipeRetstackSize": 1,
+    "group": "",
+    "recipeShapeless": false,
+    "recipeSlots": [
+      {
+        "value": "CUSTOM:MIAM"
+      },
+      {
+        "value": "CUSTOM:MIAM"
+      },
+      {
+        "value": "CUSTOM:MIAM"
+      },
+      {
+        "value": "CUSTOM:MIAM"
+      },
+      {
+        "value": ""
+      },
+      {
+        "value": "CUSTOM:MIAM"
+      },
+      {
+        "value": "CUSTOM:MIAM"
+      },
+      {
+        "value": ""
+      },
+      {
+        "value": "CUSTOM:MIAM"
+      }
+    ],
+    "recipeReturnStack": {
+      "value": "CUSTOM:MIAMArmor.legs"
+    },
+    "name": "miam_armor_leggings_recipe",
+    "namespace": "mod"
+  }
+}

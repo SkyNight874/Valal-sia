@@ -1,10 +1,219 @@
 {
   "id_map": {},
-  "mod_elements": [],
+  "mod_elements": [
+    {
+      "name": "MIAM",
+      "type": "item",
+      "sortid": 1,
+      "compiles": true,
+      "locked_code": false,
+      "ids": {},
+      "registry_name": "miam"
+    },
+    {
+      "name": "MIAMOre",
+      "type": "block",
+      "sortid": 2,
+      "compiles": true,
+      "locked_code": false,
+      "ids": {},
+      "registry_name": "miam_ore"
+    },
+    {
+      "name": "MIAMBlock",
+      "type": "block",
+      "sortid": 3,
+      "compiles": true,
+      "locked_code": false,
+      "ids": {},
+      "registry_name": "miam_block"
+    },
+    {
+      "name": "MIAMOreBlockRecipe",
+      "type": "recipe",
+      "sortid": 4,
+      "compiles": true,
+      "locked_code": false,
+      "ids": {},
+      "registry_name": "miam_ore_block_recipe"
+    },
+    {
+      "name": "MIAMBlockOreRecipe",
+      "type": "recipe",
+      "sortid": 5,
+      "compiles": true,
+      "locked_code": false,
+      "ids": {},
+      "registry_name": "miam_block_ore_recipe"
+    },
+    {
+      "name": "MIAMOreSmelting",
+      "type": "recipe",
+      "sortid": 6,
+      "compiles": true,
+      "locked_code": false,
+      "ids": {},
+      "registry_name": "miam_ore_smelting"
+    },
+    {
+      "name": "MIAMPickaxe",
+      "type": "tool",
+      "sortid": 7,
+      "compiles": true,
+      "locked_code": false,
+      "ids": {},
+      "registry_name": "miam_pickaxe"
+    },
+    {
+      "name": "MIAMAxe",
+      "type": "tool",
+      "sortid": 8,
+      "compiles": true,
+      "locked_code": false,
+      "ids": {},
+      "registry_name": "miam_axe"
+    },
+    {
+      "name": "MIAMSword",
+      "type": "tool",
+      "sortid": 9,
+      "compiles": true,
+      "locked_code": false,
+      "ids": {},
+      "registry_name": "miam_sword"
+    },
+    {
+      "name": "MIAMShovel",
+      "type": "tool",
+      "sortid": 10,
+      "compiles": true,
+      "locked_code": false,
+      "ids": {},
+      "registry_name": "miam_shovel"
+    },
+    {
+      "name": "MIAMHoe",
+      "type": "tool",
+      "sortid": 11,
+      "compiles": true,
+      "locked_code": false,
+      "ids": {},
+      "registry_name": "miam_hoe"
+    },
+    {
+      "name": "MIAMPickaxeRecipe",
+      "type": "recipe",
+      "sortid": 12,
+      "compiles": true,
+      "locked_code": false,
+      "ids": {},
+      "registry_name": "miam_pickaxe_recipe"
+    },
+    {
+      "name": "MIAMAxeRecipe",
+      "type": "recipe",
+      "sortid": 13,
+      "compiles": true,
+      "locked_code": false,
+      "ids": {},
+      "registry_name": "miam_axe_recipe"
+    },
+    {
+      "name": "MIAMSwordRecipe",
+      "type": "recipe",
+      "sortid": 14,
+      "compiles": true,
+      "locked_code": false,
+      "ids": {},
+      "registry_name": "miam_sword_recipe"
+    },
+    {
+      "name": "MIAMShovelRecipe",
+      "type": "recipe",
+      "sortid": 15,
+      "compiles": true,
+      "locked_code": false,
+      "ids": {},
+      "registry_name": "miam_shovel_recipe"
+    },
+    {
+      "name": "MIAMHoeRecipe",
+      "type": "recipe",
+      "sortid": 16,
+      "compiles": true,
+      "locked_code": false,
+      "ids": {},
+      "registry_name": "miam_hoe_recipe"
+    },
+    {
+      "name": "MIAMArmor",
+      "type": "armor",
+      "sortid": 17,
+      "compiles": true,
+      "locked_code": false,
+      "ids": {},
+      "registry_name": "miam_armor",
+      "metadata": {
+        "eh": true,
+        "el": true,
+        "eb": true,
+        "ec": true
+      }
+    },
+    {
+      "name": "MIAMArmorHelmetRecipe",
+      "type": "recipe",
+      "sortid": 18,
+      "compiles": true,
+      "locked_code": false,
+      "ids": {},
+      "registry_name": "miam_armor_helmet_recipe"
+    },
+    {
+      "name": "MIAMArmorBodyRecipe",
+      "type": "recipe",
+      "sortid": 19,
+      "compiles": true,
+      "locked_code": false,
+      "ids": {},
+      "registry_name": "miam_armor_body_recipe"
+    },
+    {
+      "name": "MIAMArmorLeggingsRecipe",
+      "type": "recipe",
+      "sortid": 20,
+      "compiles": true,
+      "locked_code": false,
+      "ids": {},
+      "registry_name": "miam_armor_leggings_recipe"
+    },
+    {
+      "name": "MIAMArmorBootsRecipe",
+      "type": "recipe",
+      "sortid": 21,
+      "compiles": true,
+      "locked_code": false,
+      "ids": {},
+      "registry_name": "miam_armor_boots_recipe"
+    }
+  ],
   "variable_elements": [],
   "sound_elements": [],
   "language_map": {
-    "en_us": {}
+    "en_us": {
+      "item.miam.name": "MIAM",
+      "tile.miam_block.name": "Block of MIAM",
+      "item.miam_hoe.name": "MIAM Hoe",
+      "item.miam_axe.name": "MIAM Axe",
+      "item.miam_armorbody.name": "MIAM Chestplate",
+      "item.miam_armorhelmet.name": "MIAM Helmet",
+      "item.miam_armorboots.name": "MIAM Boots",
+      "item.miam_sword.name": "MIAM Sword",
+      "item.miam_shovel.name": "MIAM Shovel",
+      "item.miam_armorlegs.name": "MIAM Leggings",
+      "tile.miam_ore.name": "MIAM Ore",
+      "item.miam_pickaxe.name": "MIAM Pickaxe"
+    }
   },
   "foldersRoot": {
     "name": "~",

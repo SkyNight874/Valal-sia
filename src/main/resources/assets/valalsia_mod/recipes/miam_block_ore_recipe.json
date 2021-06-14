@@ -1,0 +1,13 @@
+{
+  "group": "valalsia_mod",
+  "type": "minecraft:crafting_shapeless",
+  "ingredients": [
+    {
+      "item": "valalsia_mod:miam_block"
+    }
+  ],
+  "result": {
+    "item": "valalsia_mod:miam",
+    "count": 9
+  }
+}
